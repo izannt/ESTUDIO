@@ -37,7 +37,7 @@ Por último, en el ejercicio 3 hemos implementado funciones y condiciones relaci
 		String led1 = input.substring(0,1);
 		pin1 = led1.toInt();
 	}
-``` 
+```
 
 ### Particularidades: Problemas encontrados, funcionalidad extra, etc.
 En esta práctica la dificultad encontrada ha sido debido al LED RGB:
@@ -55,5 +55,5 @@ Finalmente, se trataba de un LED con cátodo común y por ello si funcionaban to
 [Ejercicio 3](https://drive.google.com/file/d/1wPQ4ywWFBtWpIfaU7ZS2sc8_YVie-zQN/view?usp=sharing)
 
 ### Esquemático del circuito (Tinkercad).
-![Ejercicio 1, 2 y 3.](https://drive.google.com/file/d/1vjf4Pfmb44O1rLOI-nvaM6V6K1QGA2ao/view?usp=sharing)
-
+Ejercicio 1, 2 y 3.
+[Esquematico](https://drive.google.com/file/d/1vjf4Pfmb44O1rLOI-nvaM6V6K1QGA2ao/view?usp=sharing)
