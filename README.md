@@ -55,6 +55,5 @@ Finalmente, se trataba de un LED con cátodo común y por ello si funcionaban to
 [Ejercicio 3](https://drive.google.com/file/d/1wPQ4ywWFBtWpIfaU7ZS2sc8_YVie-zQN/view?usp=sharing)
 
 ### Esquemático del circuito (Tinkercad).
-Ejercicio 1, 2 y 3.
-![alt text](https://drive.google.com/file/d/1vjf4Pfmb44O1rLOI-nvaM6V6K1QGA2ao/view?usp=sharing "Esquemático")
+![Ejercicio 1, 2 y 3.](https://drive.google.com/file/d/1vjf4Pfmb44O1rLOI-nvaM6V6K1QGA2ao/view?usp=sharing)
 
