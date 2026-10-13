@@ -15,6 +15,7 @@ En el ejercicio 1 apartado 1, hemos calculado la resistencia que se necesita par
 - Vs: voltaje de la fuente (la placa arduino) en nuestro caso 5V. 
 - Vled: caída de voltaje a través del led. Cada led tiene un valor diferente y usando el datasheet del led RGB: el led rojo empleando el valor mínimo, tiene un valor de 1.9V, mientras que el verde y azul de 2.9V. 
 - Iled: corriente que pasa por el LED, como es constante es la misma corriente que pasa por el resistor, 8mA.
+
 Obteniendo como resultado una resistencia de 387,5 ohmios para el color rojo, y dos resistencias de 262,5 ohmios para el color verde y azul del LED RGB. Aún así, físicamente hemos tenido que usar resistencias de valores superiores ya que no teniamos esas exactas: una resistencia de 470 ohmios para el rojo y dos resistencias de 330 ohmios para el resto de colores.
 
 Luego, en el apartado 2 hemos añadido al código proporcionado dos cosas: el color cian (encendiendo el color verde y el azul) y, una función que recibe 1s y 0s para encender aquellos pines correspondientes. Es decir, si la función recibe un 1 (HIGH) como dato de esa variable pin, se encenderá el canal del LED atribuido a ese pin. Por el contrario, se apagará si recibe un 0 (LOW).
